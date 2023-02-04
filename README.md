@@ -21,6 +21,8 @@ https://guolam.sakura.ne.jp/yamamemo/
 
   - 百名山のデータをいじられないように、全てロックをかけていて、あくまでデータとして眺められます。理想としては、チェックしたら、フラグが立って、その山がいったかいってないのか表示できるようにしたい。
 
+  -　これからのチャレンジ：取れた地図情報の値を地図表示したい。REST API勉強中。
+
 ## 苦戦した点
 
   - まず、APIから値を取ってはいいものの、どうやったらPOSTできるまで苦戦しました。
@@ -40,6 +42,8 @@ https://guolam.sakura.ne.jp/yamamemo/
   - 日本百名山 API  https://dottrail.codemountains.org/lp/mountix-api/
 
   - jQueryでAjax通信をしてphpとデータのやり取りをする方法  https://logsuke.com/web/programming/jquery/jquery-ajax
+
+  - Tailwind.css  https://www.youtube.com/watch?v=0ZImKleAuUY
 
 
 
